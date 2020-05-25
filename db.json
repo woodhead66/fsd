@@ -1,10 +1,12 @@
-[
-	{
-		"login": "defunkt",
-		"url": "https://api.github.com/users/defunkt"
-	}, {
-		"login": "pjhyett",
-		"url": "https://api.github.com/users/pjhyett"
-	}
+{
+	"persons": [
+	  	{
+			"login": "defunkt",
+			"url": "https://api.github.com/users/defunkt"
+		}, {
+			"login": "pjhyett",
+			"url": "https://api.github.com/users/pjhyett"
+		}
 
-]
+	]
+}
